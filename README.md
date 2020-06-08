@@ -18,7 +18,7 @@ Quick Steps:
 ### 1. Obtain the playbook
 ```shell
 git clone https://github.com/brahimmachkouri/ansible-lemp-ubuntu1604.git
-cd ansible-playbooks/ansible-lemp_ubuntu1604
+cd ./ansible-lemp_ubuntu1604
 ```
 
 ### 2. Customize Options
