@@ -1,4 +1,4 @@
-# LEMP on Ubuntu 18.04
+# LEMP on Ubuntu 16.04
 
 This playbook will install a LEMP environment on an Ubuntu 16.04 machine, as explained in the guide on
 A virtualhost will be created with the options specified in the `vars/default.yml` variable file.
