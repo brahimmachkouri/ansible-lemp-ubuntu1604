@@ -1,0 +1,5 @@
+---
+mysql_root_password: "root"
+http_host: "mydomain"
+http_conf: "mydomain.conf"
+http_port: "80"
